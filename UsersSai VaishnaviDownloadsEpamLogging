@@ -1,0 +1,84 @@
+2020-02-24 19:31:49 INFO  App:11 - Enter profit to calculate simple Interest
+2020-02-24 19:31:54 INFO  App:13 - Enter rate to calculate simple Interest
+2020-02-24 19:31:57 INFO  App:15 - Enter term to calculate simple Interest
+2020-02-24 19:31:59 INFO  App:17 - Enter materialStandard  
+1.standard materials 
+2. above Standard materials
+3. high standard materials
+4. high standard and fully autopmated home to calculate house construction cost
+ 
+2020-02-24 19:32:05 INFO  App:20 - Enter  to totalarea for calculation of construction of house
+2020-02-24 19:32:17 DEBUG App:36 - Simple Interest calculation Method invoked
+2020-02-24 19:32:17 INFO  App:24 - 
+Simple Interest is
+9108
+2020-02-24 19:32:17 DEBUG App:42 - Coumpound Interest calculation method invoked
+2020-02-24 19:32:17 INFO  App:26 - Coumpound Interest is
+2147483602
+2020-02-24 19:32:17 DEBUG App:49 - House construction cost calculation method invoked
+2020-02-24 19:32:17 INFO  App:28 - Total house cost is
+5862500
+2020-02-24 19:32:44 INFO  App:11 - Enter profit to calculate simple Interest
+2020-02-24 19:32:48 INFO  App:13 - Enter rate to calculate simple Interest
+2020-02-24 19:32:49 INFO  App:15 - Enter term to calculate simple Interest
+2020-02-24 19:32:50 INFO  App:17 - Enter materialStandard  
+1.standard materials 
+2. above Standard materials
+3. high standard materials
+4. high standard and fully autopmated home to calculate house construction cost
+ 
+2020-02-24 19:32:52 INFO  App:20 - Enter  to totalarea for calculation of construction of house
+2020-02-24 19:32:54 DEBUG App:36 - Simple Interest calculation Method invoked
+2020-02-24 19:32:54 INFO  App:24 - 
+Simple Interest is
+22848
+2020-02-24 19:32:54 DEBUG App:42 - Coumpound Interest calculation method invoked
+2020-02-24 19:32:54 INFO  App:26 - Coumpound Interest is
+-24
+2020-02-24 19:32:54 DEBUG App:49 - House construction cost calculation method invoked
+2020-02-24 19:32:54 INFO  App:28 - Total house cost is
+30000
+2020-02-24 19:34:27 INFO  App:11 - Enter profit to calculate simple Interest
+2020-02-24 19:34:29 INFO  App:11 - Enter profit to calculate simple Interest
+2020-02-24 19:34:31 INFO  App:13 - Enter rate to calculate simple Interest
+2020-02-24 19:34:32 INFO  App:15 - Enter term to calculate simple Interest
+2020-02-24 19:34:33 INFO  App:17 - Enter materialStandard  
+1.standard materials 
+2. above Standard materials
+3. high standard materials
+4. high standard and fully automated 
+ home to calculate house construction cost
+ 
+2020-02-24 19:34:35 INFO  App:20 - Enter  to totalarea for calculation of construction of house
+2020-02-24 19:34:36 DEBUG App:36 - Simple Interest calculation Method invoked
+2020-02-24 19:34:36 INFO  App:24 - 
+Simple Interest is
+816
+2020-02-24 19:34:36 DEBUG App:42 - Coumpound Interest calculation method invoked
+2020-02-24 19:34:36 INFO  App:26 - Coumpound Interest is
+14688
+2020-02-24 19:34:36 DEBUG App:49 - House construction cost calculation method invoked
+2020-02-24 19:34:36 INFO  App:28 - Total house cost is
+30000
+2020-02-24 19:39:05 INFO  App:11 - Enter profit to calculate simple Interest
+2020-02-24 19:39:07 INFO  App:11 - Enter profit to calculate simple Interest
+2020-02-24 19:39:17 INFO  App:13 - Enter rate to calculate simple Interest
+2020-02-24 19:39:19 INFO  App:15 - Enter term to calculate simple Interest
+2020-02-24 19:39:20 INFO  App:17 - Enter materialStandard  
+1.standard materials 
+2. above Standard materials
+3. high standard materials
+4. high standard and fully automated 
+ home to calculate house construction cost
+ 
+2020-02-24 19:39:21 INFO  App:20 - Enter totalarea for calculation of construction of house
+2020-02-24 19:39:24 DEBUG App:36 - Simple Interest calculation Method invoked
+2020-02-24 19:39:24 INFO  App:24 - 
+Simple Interest is
+72
+2020-02-24 19:39:24 DEBUG App:42 - Coumpound Interest calculation method invoked
+2020-02-24 19:39:24 INFO  App:26 - Coumpound Interest is
+312
+2020-02-24 19:39:24 DEBUG App:49 - House construction cost calculation method invoked
+2020-02-24 19:39:24 INFO  App:28 - Total house cost is
+3085000
